@@ -25,6 +25,5 @@ Qué alcaldía tiene más y cual menos PILARES.
 Cuál es el promedio de PILARES por alcaldía
 
 Realiza una presentación con los datos que consideres relevantes realizando un anális de esta base.
-
-https://www.db-fiddle.com/f/8nn18rHMhh6uup6njvQBzz/0
+https://www.db-fiddle.com/f/8nn18rHMhh6uup6njvQBzz/1
 
